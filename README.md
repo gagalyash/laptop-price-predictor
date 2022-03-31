@@ -1,5 +1,3 @@
-# laptop-price-predictor
-
 # Laptop Prices Predictor
 <ul>
   <li>Designed a web app that predicts the price of the laptop given the configurations. </li>
