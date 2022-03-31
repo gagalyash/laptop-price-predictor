@@ -3,9 +3,9 @@
 # Laptop Prices Predictor
 <ul>
   <li>Designed a web app that predicts the price of the laptop given the configurations. </li>
-  <li>Scraped the laptops data from flipkart.com using python and BeautifulSoup package</li>
+  <li>Scraped the laptops data from kaggle using python and Opendatasets package</li>
   <li>Developed Linear, Lasso, and Random Forest Regressors using GridsearchCV to get the best model.</li>
-  <li>Deployed the Machine Learning model using streamlit library in Heroku using flask</li>
+  <li>Deployed the Machine Learning model using streamlit library in Heroku</li>
 </ul>
 
 # Links and Resources Used
@@ -25,16 +25,11 @@ Description - Made new columns for the company and graphic card <br>
 # Data Preprocessing
 There are a few columns which are categorical here but they actually contain numerical values.So we need to convert few categorical columns to numerical columns. These are DDR_Version,Generation,Storage_GB,Price.
 
-# Exploratory Data Analysis
-![](images/processor_type.png)   ![](images/diskdrive.png) <br/>
-![](images/RAM_GB.png)
-
 # Model Building
 <li>Traditional Method</li>
 Used scikit-learn library for the Machine Learning tasks. Applied label encoding and converted the categorical variables into numerical ones.Then I splited the data into training and test sets with a test size of 20%. I tried three different models ( Linear Regression, Random Forest Regression, XGBoost) and evaluated them using Mean Absolute Error. 
 
-
 # Model Deployment
 I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
 
-Web application: <a href="https://laptop-prices-predictor-yg.herokuapp.com/">https://laptop-prices-predictor-yg.herokuapp.com/</a>
+Web application: <a href="https://laptop-price-predictor-yg.herokuapp.com/">https://laptop-prices-predictor-yg.herokuapp.com/</a>
