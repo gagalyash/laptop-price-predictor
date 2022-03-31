@@ -16,7 +16,7 @@
 
 # Feature Engineering
 We go through all the features one by one and keep adding new features. I have made the following changes and created new variables:
-RAM - Made columns for Ram Capacity in GB and the DDR version <br>
+RAM - Made columns for Ram Capacity in GB  <br>
 Processor - Made columns for Name of the Processor, Type of the Processor, Generation <br>
 Operating System - Parsed the Operating System from this column and made a new column <br>
 Storage - Made new columns for the type of Disk Drive and the capacity of the Disk Drive <br>
