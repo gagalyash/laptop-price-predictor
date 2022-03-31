@@ -9,7 +9,7 @@
 # Links and Resources Used
 <li>Streamlit Library: <a href="https://www.streamlit.io/">https://www.streamlit.io/</a>
 <li>Dataset Link: <a href="https://www.kaggle.com/ionaskel/laptop-prices/">https://www.kaggle.com/ionaskel/laptop-prices/<a>
-<li>Packages: pandas, numpy, sklearn, streamlit</li>
+<li>Packages: pandas, numpy, matplotlib, seaborn, sklearn, streamlit</li>
 
 
 # Feature Engineering
