@@ -1,1 +1,1 @@
-# laptop-price-predictor-yg
+# laptop-price-predictor
