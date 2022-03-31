@@ -32,4 +32,4 @@ Used scikit-learn library for the Machine Learning tasks. Applied label encoding
 # Model Deployment
 I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
 
-Web application: <a href="https://laptop-price-predictor-yg.herokuapp.com/">https://laptop-prices-predictor-yg.herokuapp.com/</a>
+Web application: <a href="https://laptop-price-predictor-yg.herokuapp.com/">https://laptop-price-predictor-yg.herokuapp.com/</a>
