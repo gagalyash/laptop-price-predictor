@@ -9,6 +9,7 @@
 # Links and Resources Used
 <li>Streamlit Library: <a href="https://www.streamlit.io/">https://www.streamlit.io/</a>
 <li>Dataset Link: <a href="https://www.kaggle.com/ionaskel/laptop-prices/">https://www.kaggle.com/ionaskel/laptop-prices/<a>
+<li>heroku Platform: <a href="https://www.heroku.com/">https://www.heroku.com/</a>
 <li>Packages: pandas, numpy, matplotlib, seaborn, sklearn, streamlit</li>
 
 
