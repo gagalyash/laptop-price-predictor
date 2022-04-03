@@ -3,7 +3,7 @@
   <li>Designed a web app that predicts the price of the laptop given the configurations. </li>
   <li>Scraped the laptops data from kaggle using python and Opendatasets package.</li>
   <li>Developed Linear, Lasso, and Random Forest Regressors using GridsearchCV to get the best model.</li>
-  <li>Deployed the Machine Learning model using streamlit library in Heroku.</li>
+  <li>Deployed the Machine Learning model using streamlit library on Heroku.</li>
 </ul>
 
 # Links and Resources Used
