@@ -20,14 +20,14 @@ Processor - Made columns for Name of the Processor, Type of the Processor, Gener
 Operating System - Parsed the Operating System from this column and made a new column <br>
 Storage - Made new columns for the type of Disk Drive and the capacity of the Disk Drive <br>
 Display - Made new columns for the size of the laptop(in inches) and touchscreen <br>
-Description - Made new columns for the company and graphic card <br>
+Description - Made new columns for the company and IPS <br>
 
 # Data Preprocessing
 There are a few columns which are categorical here but they actually contain numerical values.So we need to convert few categorical columns to numerical columns. These are ram, weight, hdd, ssd.
 
 # Model Building
 <li>Traditional Method</li>
-Used scikit-learn library for the Machine Learning tasks. Applied label encoding and converted the categorical variables into numerical ones.Then I splited the data into training and test sets with a test size of 20%. I tried three different models ( Linear Regression, Random Forest Regression, XGBoost) and evaluated them using Mean Absolute Error. 
+Used scikit-learn library for the Machine Learning tasks. Applied label encoding and converted the categorical variables into numerical ones.Then I splited the data into training and test sets with a test size of 20%. I tried different regression models ( Linear Regression, Random Forest Regression, XGBoost) and evaluated them using Mean Absolute Error. 
 
 # Model Deployment
 I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
