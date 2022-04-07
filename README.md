@@ -30,6 +30,6 @@ There are a few columns which are categorical here but they actually contain num
 Used scikit-learn library for the Machine Learning tasks. Applied label encoding and converted the categorical variables into numerical ones.Then I splited the data into training and test sets with a test size of 20%. I tried different regression models ( Linear Regression, Random Forest Regression, XGBoost) and evaluated them using Mean Absolute Error. 
 
 # Model Deployment
-I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
+- I have deployed the model using Streamlit library on Heroku which is a Platform As A Service(PAAS)
 
-Web application: <a href="https://laptop-price-predictor-yg.herokuapp.com/">https://laptop-price-predictor-yg.herokuapp.com/</a>
+- Web application: <a href="https://laptop-price-predictor-yg.herokuapp.com/">https://laptop-price-predictor-yg.herokuapp.com/</a>
